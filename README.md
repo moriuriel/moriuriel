@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Devapi
-- 🌱 I’m currently learning Typescript and Docker
+- 🌱 I’m currently learning Typescript, Golang and micro front end
 - 📫 How to reach me: moriuriel@gmail.com
 
 <div>
