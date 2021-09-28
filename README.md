@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Devapi
-🌱 I’m currently learning Typescript and Docker
-📫 How to reach me: moriuriel@gmail.com
+- 🔭 I’m currently working on Devapi
+- 🌱 I’m currently learning Typescript and Docker
+- 📫 How to reach me: moriuriel@gmail.com
 
 <div>
   <a href="https://github.com/moriuriel">
