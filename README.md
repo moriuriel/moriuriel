@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Devapi
-- 🌱 I’m currently learning Typescript, Golang
+- 🌱 I'm currently learning Software Architecture
 - 📫 How to reach me: moriuriel@gmail.com
 <center>
 <table>
