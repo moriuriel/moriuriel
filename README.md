@@ -10,5 +10,8 @@
     </tr>   
 </table>
 </center>  
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,git,linux,mongodb,postgres,js,ts,go,nodejs,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,linux,mongodb,postgres,js,ts,go,nodejs,react)" />
+  </a>
+</p>
