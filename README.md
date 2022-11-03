@@ -13,6 +13,6 @@
 ## Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,linux,mongodb,postgres,js,ts,go,nodejs,react,nestjs,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,linux,mongodb,postgres,js,ts,go,nodejs,nestjs,rabbit" />
   </a>
 </p>
