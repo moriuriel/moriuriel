@@ -10,9 +10,9 @@
     </tr>   
 </table>
 </center>  
-## Languages and Tools
+### Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,linux,mongodb,postgres,js,ts,go,nodejs,nestjs,rabbit" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,mongodb,postgres,dynamodb,js,ts,go,nodejs,nestjs" />
   </a>
 </p>
