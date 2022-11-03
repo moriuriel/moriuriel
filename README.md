@@ -9,8 +9,10 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=moriuriel&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
+</center> 
+
 ### Languages and Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,mongodb,postgres,dynamodb,js,ts,go,nodejs,nestjs" />
